@@ -7368,7 +7368,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF 50V"
+		(property "Value" "100nF/50V"
 			(at 239.014 81.28 0)
 			(effects
 				(font
@@ -7437,7 +7437,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1k5"
+		(property "Value" "1k"
 			(at 91.948 87.376 0)
 			(effects
 				(font
@@ -7787,7 +7787,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "1-Capacitor:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 150.1648 41.91 0)
 			(effects
 				(font
@@ -7983,7 +7983,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF 50V"
+		(property "Value" "100nF/50V"
 			(at 172.466 142.24 0)
 			(effects
 				(font
@@ -7992,7 +7992,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "1-Capacitor:C_0805_2012Metric"
+		(property "Footprint" "1-Capacitor:C_0603_1608Metric"
 			(at 174.2948 144.78 0)
 			(effects
 				(font
@@ -8052,7 +8052,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF 50V"
+		(property "Value" "100nF/50V"
 			(at 185.674 142.24 0)
 			(effects
 				(font
@@ -8061,7 +8061,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "1-Capacitor:C_0805_2012Metric"
+		(property "Footprint" "1-Capacitor:C_0603_1608Metric"
 			(at 183.8452 144.78 0)
 			(effects
 				(font
@@ -8189,7 +8189,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF 50V"
+		(property "Value" "100nF/50V"
 			(at 120.396 64.77 0)
 			(effects
 				(font
@@ -9222,7 +9222,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1uF 16V"
+		(property "Value" "1uF/50V"
 			(at 103.886 39.37 0)
 			(effects
 				(font
@@ -9231,7 +9231,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "1-Capacitor:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 105.7148 41.91 0)
 			(effects
 				(font

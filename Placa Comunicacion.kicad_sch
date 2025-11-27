@@ -9389,7 +9389,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "30pF 50V"
+		(property "Value" "30pF/50V"
 			(at 171.45 87.63 90)
 			(effects
 				(font
@@ -10061,7 +10061,7 @@
 		(fields_autoplaced yes)
 		(uuid "52631c39-54bd-4f69-aad2-faab407cb080")
 		(property "Reference" "C39"
-			(at 100.33 263.525 0)
+			(at 100.33 262.8899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10069,8 +10069,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "47uF 25V"
-			(at 100.33 266.065 0)
+		(property "Value" "47uF/25V"
+			(at 100.33 265.4299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10540,7 +10540,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF 50V"
+		(property "Value" "100nF/50V"
 			(at 182.88 41.91 0)
 			(effects
 				(font
@@ -12128,7 +12128,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "30pF 50V"
+		(property "Value" "30pF/50V"
 			(at 171.45 64.77 90)
 			(effects
 				(font
@@ -12190,7 +12190,7 @@
 		(fields_autoplaced yes)
 		(uuid "e7492205-0203-4cc5-9a7c-06d6941fb6ed")
 		(property "Reference" "C40"
-			(at 127 262.89 0)
+			(at 127 262.8899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12198,8 +12198,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4.7uF 25V"
-			(at 127 265.43 0)
+		(property "Value" "4u7F/25V"
+			(at 127 265.4299 0)
 			(effects
 				(font
 					(size 1.27 1.27)

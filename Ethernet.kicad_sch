@@ -3762,7 +3762,7 @@
 	)
 	(text "C1002"
 		(exclude_from_sim no)
-		(at 191.77 40.894 0)
+		(at 191.008 35.56 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7573,7 +7573,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "510R"
+		(property "Value" "10k"
 			(at 253.238 144.526 0)
 			(effects
 				(font
@@ -8521,22 +8521,22 @@
 		(dnp no)
 		(uuid "6c22cdee-8e18-4dd7-b458-9b5ca9f1d7eb")
 		(property "Reference" "FB2"
-			(at 189.992 26.416 90)
+			(at 183.388 26.924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "600R"
-			(at 189.992 28.956 90)
+		(property "Value" "450mR/200mA"
+			(at 188.722 28.956 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_0805_2012Metric"
+		(property "Footprint" "Inductor_SMD:L_0603_1608Metric"
 			(at 190.5 33.528 90)
 			(effects
 				(font
@@ -10185,7 +10185,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "510R"
+		(property "Value" "10k"
 			(at 275.082 144.526 0)
 			(effects
 				(font
